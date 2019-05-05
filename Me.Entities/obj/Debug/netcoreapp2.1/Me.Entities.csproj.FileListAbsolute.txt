@@ -1,0 +1,8 @@
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\bin\Debug\netcoreapp2.1\Me.Entities.deps.json
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\bin\Debug\netcoreapp2.1\Me.Entities.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\bin\Debug\netcoreapp2.1\Me.Entities.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\obj\Debug\netcoreapp2.1\Me.Entities.csproj.CoreCompileInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\obj\Debug\netcoreapp2.1\Me.Entities.AssemblyInfoInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\obj\Debug\netcoreapp2.1\Me.Entities.AssemblyInfo.cs
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\obj\Debug\netcoreapp2.1\Me.Entities.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Entities\obj\Debug\netcoreapp2.1\Me.Entities.pdb

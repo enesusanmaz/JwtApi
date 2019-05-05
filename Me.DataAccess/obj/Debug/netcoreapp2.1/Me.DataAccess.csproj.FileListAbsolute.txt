@@ -1,0 +1,12 @@
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\bin\Debug\netcoreapp2.1\Me.DataAccess.deps.json
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\bin\Debug\netcoreapp2.1\Me.DataAccess.dll
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\bin\Debug\netcoreapp2.1\Me.DataAccess.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\bin\Debug\netcoreapp2.1\Me.Entities.dll
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\bin\Debug\netcoreapp2.1\Me.Entities.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.csprojAssemblyReference.cache
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.AssemblyInfoInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.AssemblyInfo.cs
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.csproj.CopyComplete
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.dll
+C:\Users\enesu\source\repos\Me\Me\Me.DataAccess\obj\Debug\netcoreapp2.1\Me.DataAccess.pdb

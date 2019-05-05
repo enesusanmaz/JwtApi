@@ -1,0 +1,8 @@
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\bin\Debug\netcoreapp2.1\Me.Dto.deps.json
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\bin\Debug\netcoreapp2.1\Me.Dto.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\bin\Debug\netcoreapp2.1\Me.Dto.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\obj\Debug\netcoreapp2.1\Me.Dto.csproj.CoreCompileInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\obj\Debug\netcoreapp2.1\Me.Dto.AssemblyInfoInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\obj\Debug\netcoreapp2.1\Me.Dto.AssemblyInfo.cs
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\obj\Debug\netcoreapp2.1\Me.Dto.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Dto\obj\Debug\netcoreapp2.1\Me.Dto.pdb

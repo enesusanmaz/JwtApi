@@ -1,0 +1,16 @@
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Business.deps.json
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Business.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Business.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.DataAccess.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Dto.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Entities.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.DataAccess.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Dto.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Business\bin\Debug\netcoreapp2.1\Me.Entities.pdb
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.csprojAssemblyReference.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.csproj.CoreCompileInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.AssemblyInfoInputs.cache
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.AssemblyInfo.cs
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.csproj.CopyComplete
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.dll
+C:\Users\enesu\source\repos\Me\Me\Me.Business\obj\Debug\netcoreapp2.1\Me.Business.pdb
